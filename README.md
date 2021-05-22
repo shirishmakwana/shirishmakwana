@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shirishmakwana
+- 👀 I’m interested in developing apps with technologies like: React, Vue, Node, Flutter, React Native, Laravel, Core PHP
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on React, Vue, Node, Flutter, React Native
+- 📫 How to reach me - shirishm.mawkwana@gmail.com
